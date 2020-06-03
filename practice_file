@@ -1,0 +1,9 @@
+1 add line1
+2 add line2
+<<<<<<< HEAD
+3 add line3
+=======
+3 change line3
+4 add line4
+5 add line5
+>>>>>>> 5084ad6... docs(*): add line4 and line5 to practie file
