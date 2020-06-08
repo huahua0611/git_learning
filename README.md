@@ -27,3 +27,11 @@ v4.4 diff people work on same file and one rename others face conflict
 - others add line 6 to practice_file
 
 - fetch and merge face problem
+
+v4.5 diff rename the smae file
+
+- change practice_file name by web and remote
+
+- git will create two new file with each name and remove the original one
+
+- people need to discuss about the name of rename file !!!
