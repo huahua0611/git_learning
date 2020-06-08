@@ -14,4 +14,4 @@ learning git wokr with mutlip people
 
 - change from web by first client
 
-- change from remote git by second client
+- change from remote git by second client, add someting
