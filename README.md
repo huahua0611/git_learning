@@ -15,3 +15,7 @@ learning git wokr with multiple people
 - change from web by first client
 
 - change from remote git by second client, add someting
+
+v4.3 diff people work on same file on same part
+
+- change the same file at same part by two client, the later pusher will face conflect
