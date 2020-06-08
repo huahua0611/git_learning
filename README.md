@@ -10,7 +10,7 @@ learning git wokr with multiple people
 
 4.1 diff people work on diff file by same branch
 
-4.2 diff people work on same file
+4.2 diff people work on same file with diff part
 
 - change from web by first client
 
