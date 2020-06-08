@@ -6,7 +6,7 @@
 
 Unit 4
 
-learning git wokr with mutlip people
+learning git wokr with multiple people
 
 4.1 diff people work on diff file by same branch
 
