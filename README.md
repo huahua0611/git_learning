@@ -4,23 +4,25 @@
 
 ---
 
-Unit 4
+## Contents
 
-learning git wokr with multiple people
+### Unit 4
 
-v4.1 diff people work on diff file by same branch
+learning git work with multiple people
 
-v4.2 diff people work on same file with diff part
+4.1 diff people work on diff file by same branch
+
+4.2 diff people work on same file with diff part
 
 - change from web by first client
 
-- change from remote git by second client, add someting
+- change from remote git by second client, add something
 
-v4.3 diff people work on same file on same part
+4.3 diff people work on same file on same part
 
-- change the same file at same part by two client, the later pusher will face conflect
+- change the same file at same part by two client, the later pusher will face conflict
 
-v4.4 diff people work on same file and one rename others face conflict
+4.4 diff people work on same file and one rename others face conflict
 
 - change the practice_file to practice_file_v4.4
 
@@ -28,10 +30,16 @@ v4.4 diff people work on same file and one rename others face conflict
 
 - fetch and merge face problem
 
-v4.5 diff rename the smae file
+4.5 diff rename the same file
 
 - change practice_file name by web and remote
 
 - git will create two new file with each name and remove the original one
 
 - people need to discuss about the name of rename file !!!
+
+### Unit 5
+
+5.1 never use git push -f (force push) to remote git
+
+5.2 never rebase remote git
