@@ -43,3 +43,7 @@ learning git work with multiple people
 5.1 never use git push -f (force push) to remote git
 
 5.2 never rebase remote git
+
+### Unit 6
+
+6.1 why github is popular
