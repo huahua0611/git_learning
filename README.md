@@ -8,9 +8,9 @@ Unit 4
 
 learning git wokr with multiple people
 
-4.1 diff people work on diff file by same branch
+v4.1 diff people work on diff file by same branch
 
-4.2 diff people work on same file with diff part
+v4.2 diff people work on same file with diff part
 
 - change from web by first client
 
@@ -19,3 +19,11 @@ learning git wokr with multiple people
 v4.3 diff people work on same file on same part
 
 - change the same file at same part by two client, the later pusher will face conflect
+
+v4.4 diff people work on same file and one rename others face conflict
+
+- change the practice_file to practice_file_v4.4
+
+- others add line 6 to practice_file
+
+- fetch and merge face problem
