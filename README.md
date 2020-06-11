@@ -4,9 +4,12 @@
 
 ---
 
-##
+## branch rules (setting/branches)
 
-branch rebase to get one clear network
+- requires code review
+- requires liner history (rebase)
+- include admins follow the rules
+- disable push -f
 
 ## Contents
 
