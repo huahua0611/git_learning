@@ -1,8 +1,14 @@
-# git_learning
+# Git Learning
 
-[https://github.com/git201901/git_learning](https://github.com/git201901/git_learning)
+## Introduction
 
----
+This repository is about my git learning, and I follow the instructor from [time.geekbang.org](https://time.geekbang.org/course/intro/100021601).
+
+The basic website framework comes from [https://github.com/git201901/git_learning](https://github.com/git201901/git_learning).
+
+This is my [Github Pages](https://qzjqt76zfqzx.github.io/git_learning/) of this repository. It is created by myself not follow above framework.
+
+Also the most important refrence is [Git Reference Manual](https://git-scm.com/docs).
 
 ## branch rules (setting/branches)
 
